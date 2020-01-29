@@ -1,0 +1,16 @@
+* {
+    border-radius: 0 !important;
+}
+
+.app-header {
+    padding-top: 20px;
+    border-bottom: 1px #222 solid;
+}
+
+.container {
+    padding-top: 100px;
+}
+
+.table {
+    margin-top: 50px;
+}
